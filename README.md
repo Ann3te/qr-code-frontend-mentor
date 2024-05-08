@@ -10,14 +10,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
   - [Built with](#built-with)
 
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 ## Overview
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ## My process
 
@@ -30,4 +29,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Acknowledgments
 
-Got inspiration from https://www.frontendmentor.io/profile/Arekkusu17
+Got inspiration from [@Arekkusu17](https://www.frontendmentor.io/profile/Arekkusu17)
